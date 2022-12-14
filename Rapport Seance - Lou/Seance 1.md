@@ -13,9 +13,9 @@ Ce tuyau sera placer aux pieds de plante afin d'arroser correctement et de mani�
 Sur le côté où se trouve la boîte technique nous placerons le capteur de lumière, le capteur de température mais également une ventilation qui s'activera lorsque la température est trop élevée. Sous la terre sera placé le capteur d'humidité.
 
 
-Voici les matériaux dont nous avons besoin:
--9 morceaux de plexiglass: * 2: 50x30 cm             
-                           * 2: 30x30 cm.            
+Voici les matériaux dont nous avons besoin:                                                                                                                
+-9 morceaux de plexiglass: * 2: 50x30 cm                                                                                          
+                           * 2: 30x30 cm            
                            * 4: à déterminer lors de l'assemblage                               
 -1 plaque de bois: 51x31 cm
 -1 tube de pvc (flexible)
