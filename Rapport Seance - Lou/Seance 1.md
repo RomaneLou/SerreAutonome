@@ -14,9 +14,9 @@ Sur le côté où se trouve la boîte technique nous placerons le capteur de lum
 
 
 Voici les matériaux dont nous avons besoin:
--9 morceaux de plexiglass: -2: 50x30 cm +/n
-                           -2: 30x30 cm
-                           -4: à déterminer lors de l'assemblage                          
+-9 morceaux de plexiglass: * 2: 50x30 cm             
+                           * 2: 30x30 cm.            
+                           * 4: à déterminer lors de l'assemblage                               
 -1 plaque de bois: 51x31 cm
 -1 tube de pvc (flexible)
 -pistolet à colle
