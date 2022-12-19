@@ -16,8 +16,8 @@ Voici une photo du montage https://user-images.githubusercontent.com/119842862/2
 
 Concernant le code, il faut d'abord définir les variables, le pin où le capteur est branché pour éviter de devoir le modifier par la suite, la valeur de l'humidité ainsi que le pourcentage.
 On récupère la valeur reçue par le capteur grâce à un AnalogRead. 
-Pour définir le pourcentage j'ai du effectuer des mesures avec mon capteur. J'ai d'abord noté la valeur obtenue lorsque nous nous trouvons dans un environnement sec puis au contraire lorsque le capteur est plongé dans l'eau. J'ai mis ces deux valeurs repères dans des variables.
-Et grâce à la méthode map() (sur laquelle je me suis renseignée avec la documentation) j'ai pu créer un pourcentage.
+Pour définir le pourcentage j'ai du effectuer des mesures avec mon capteur. J'ai d'abord noté la valeur obtenue lorsque nous nous trouvons dans un environnement sec (variable "sec") puis au contraire lorsque le capteur est plongé dans l'eau (variable "humide"). J'ai mis ces deux valeurs repères dans des variables.
+Et grâce à la méthode map() (sur laquelle je me suis renseignée avec la documentation) j'ai pu créer un pourcentage, la valeur "sec" correspondant au pourcentage 0 et la valeur "humide" au pourcentage 100. 
 
 
 
