@@ -11,14 +11,14 @@ J'ai d'abord compris comment le brancher à ma carte arduino. Notre capteur d'hu
 Le branchement est simple il suffit d'abord de relier les deux parties du capteur. 
 On le branche ensuite à la carte arduino, on relie la patte A0 de la carte UNO et la patte A0 du capteur. On relie la masse et le 5V.
 
-Voici une photo du montage 
+Voici une photo du montage https://user-images.githubusercontent.com/119842862/208514109-1dcd134e-a5c5-4f3a-b0d4-679cec9a4703.jpg
+
 
 Concernant le code, il faut d'abord définir les variables, le pin où le capteur est branché pour éviter de devoir le modifier par la suite, la valeur de l'humidité ainsi que le pourcentage.
 On récupère la valeur reçue par le capteur grâce à un AnalogRead. 
 Pour définir le pourcentage j'ai du effectuer des mesures avec mon capteur. J'ai d'abord noté la valeur obtenue lorsque nous nous trouvons dans un environnement sec puis au contraire lorsque le capteur est plongé dans l'eau. J'ai mis ces deux valeurs repères dans des variables.
 Et grâce à la méthode map() (sur laquelle je me suis renseignée avec la documentation) j'ai pu créer un pourcentage.
 
-Voici le code 
 
 
 
@@ -38,7 +38,8 @@ le capteur en entier 259
 
 J'ai ensuite travailler sur la pompe à eau qui devra se déclencher lorsque l'humidité est trop faible. Elle sera relier à un reservoir qui contient l'eau.
 La pompe à eau est constitué d'un moteur. Ce moteur nécessite une puissance d'alimentation importante et le 5v n'étant pas suffisant j'ai ajouté une alimentation extérieure de 12V. Le moteur est relié à un relai qui travaille sur les résistances. Le relai est ensuite relié à la carte arduino.
-Voici un schéma qui résume le branchement que j'ai réaliser: 
+Voici un schéma qui résume le branchement que je souhaite réaliser: https://user-images.githubusercontent.com/119842862/208513713-255308aa-bdb1-4c3f-8b2e-43c3b94c019f.jpg
+
 
 
 Le relai possède trois branches et est en fait un interrupteur. Mon travail a donc été de déterminer ces broches. Il fallait trouver le C (le C est connecté au moteur), le Normalement Ouvert (NO) et le Normalement Fermé (NF). Pour cela j'ai utilisé un ohmmètre.
@@ -55,6 +56,12 @@ https://user-images.githubusercontent.com/119842862/208512649-c86ea643-856a-4245
 
 
 
+Grâçe à cela j'ai pu terminer mon montage car je connais maintenant l'emplacement de tous les fils. Voici une photo de mon montage: https://user-images.githubusercontent.com/119842862/208513297-aa948ee8-44e2-4fa7-a887-36fcae7939a2.jpg
+
+
+Le pompe fonctionne maintenant. Un des tubes de la pompe aspire l'eau qui est ensuite rejetée par l'autre tube.
+
+Il faudra à la prochaine séance essayer de relier le capteur et la pompe. 
 
 
 
