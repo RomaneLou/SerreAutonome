@@ -23,15 +23,15 @@ Et grâce à la méthode map() (sur laquelle je me suis renseignée avec la docu
 
 
 Mesures pour connaître le capteur d'humidité:
-air libre (sec) : 1023
-pointes du capteur (sans toucher l'électrode) : 1023 (cela ne diminue pas)
-bout de l'électrode : 515
-première barre de l'électrode: 375
-deuxième barre de l'électrode : 350
-troisième barre de l'électrode : 320
-quatrième barre de l'électrode : 300
-cinquième barre de l'électrode : 278
-sixième barre de l'électrode: 266
+air libre (sec) : 1023 ;                                      
+pointes du capteur (sans toucher l'électrode) : 1023 (cela ne diminue pas) ; 
+bout de l'électrode : 515 ;
+première barre de l'électrode: 375 ;
+deuxième barre de l'électrode : 350 ; 
+troisième barre de l'électrode : 320 ; 
+quatrième barre de l'électrode : 300 ; 
+cinquième barre de l'électrode : 278 ; 
+sixième barre de l'électrode: 266 ; 
 le capteur en entier 259
 
 
