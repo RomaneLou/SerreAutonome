@@ -1,4 +1,4 @@
-
+<h1>Seance 2</h1>
 J'ai consacré cette séance à l'étude des leds et du capteur "jour/nuit". 
 Premièrement j'ai choisi une couleur que l'on va mettre en journée ("tangerine" 255 127 0). Cela diffuse une lumière assez douce.
 Lorsqu'il fait nuit, c'est à ce moment que l'on doit allumer les leds violettes. J'ai choisi ("magenta foncé" 128 0 128).
