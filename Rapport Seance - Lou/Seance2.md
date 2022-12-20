@@ -19,6 +19,8 @@ On récupère la valeur reçue par le capteur grâce à un AnalogRead.
 Pour définir le pourcentage j'ai du effectuer des mesures avec mon capteur. J'ai d'abord noté la valeur obtenue lorsque nous nous trouvons dans un environnement sec (variable "sec") puis au contraire lorsque le capteur est plongé dans l'eau (variable "humide"). J'ai mis ces deux valeurs repères dans des variables.
 Et grâce à la méthode map() (sur laquelle je me suis renseignée avec la documentation) j'ai pu créer un pourcentage, la valeur "sec" correspondant au pourcentage 0 et la valeur "humide" au pourcentage 100. 
 
+voici le code: https://user-images.githubusercontent.com/119842862/208646448-cb62f0c8-c2a3-4a5c-8541-31454d5f6099.png
+
 
 
 
