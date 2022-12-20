@@ -1,5 +1,6 @@
 <h1>Seance 2</h1>
 J'ai consacré cette séance à l'étude des leds et du capteur "jour/nuit". 
+Les leds seront placées sur le toit de notre serre pour diffuser de façon homogène la lumière. Le capteur "jour/nuit" sera lui, placé sur le toit de la serre. 
 Premièrement j'ai choisi une couleur que l'on va mettre en journée ("tangerine" 255 127 0). Cela diffuse une lumière assez douce.
 Lorsqu'il fait nuit, c'est à ce moment que l'on doit allumer les leds violettes. J'ai choisi ("magenta foncé" 128 0 128).
 Pour apporter de l'esthétique au projet, j'ai créé une sorte de coucher de soleil à l'aide de différentes couleurs pour passer de tangerine à 
@@ -36,6 +37,6 @@ Voici une photo du montage :
 
 [Photo-montage-leds-capteur.HEIC.zip](https://github.com/RomaneLou/SerreAutonome/files/10267637/Photo-montage-leds-capteur.HEIC.zip)
 
-
+Pour la prochaine séance il faut que je travaille sur le capteur d'humidité de l'air. 
 
 
