@@ -16,6 +16,7 @@ Ensuite nous allons convertir nos valeurs en pourcentage. Maintenant ce capteur 
 Je peux donc faire fonctionner mes leds en fonction du pourcentage de jour. J'ai choisi deux cas :
 
 Lorsque le pourcentage de jour et inférieur ou égal à 30% : on fait le coucher du soleil puis on laisse les leds violettes jusqu'au jour
+
 Lorsque le pourcentage de jour est supérieur à 30% (je considère qu'il fait jour) : on fait le lever du soleil puis on laisse les leds avec la
 couleur tangerine
 On repete cette boucle indéfiniment. 
