@@ -5,7 +5,7 @@ La base de la serre sera imprimée en 3D avec la grande imprimante. "Les vitres"
 sera emboîté avec le sol.
 
 Il a donc été question de déterminer les mesures et la forme de notre serre. 
-Voici le plan que nous avons créer et dessiner: 
+Voici le plan que nous avons créer et dessiner: (https://user-images.githubusercontent.com/119842862/211618851-220efc8f-d25b-40af-932b-8ca536aab808.jpg)
 
 J'ai donc ensuite pu commencer à modéliser la base de notre serre afin de pouvoir l'imprimer par la suite. 
 J'ai utilisé le logiciel onshape.
