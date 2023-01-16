@@ -13,8 +13,8 @@ Voici le programme :
 ![Capture d’écran 2023-01-10 à 19 03 10](https://user-images.githubusercontent.com/119842862/211627914-5196ae56-daba-4c6c-9bcf-93d51c0057d8.png)
 
 
-Maintenant que nous avons des informations sur l'hygrométrie, il faut pouvoir agir en conséquences. Lorsque le pourcentage d'hygrométrie sera trop élevé, nous avons décidé d'ouvrir une partie du toit à l'aide du cerveau moteur. Ce cerveau moteur est composé de trois fils, le plus foncé est le GND, le rouge
+Maintenant que nous avons des informations sur l'hygrométrie, il faut pouvoir agir en conséquences. Lorsque le pourcentage d'hygrométrie sera trop élevé, nous avons décidé d'ouvrir une partie du toit à l'aide du servo moteur. Ce servo moteur est composé de trois fils, le plus foncé est le GND, le rouge
 correspond au 5V et le jaune es dédié l'endroit où on envoie les commandes. 
-Le cerveau moteur sera placé sur le coté de la serre (du côté où il y aura la boite avec l'electronique). Il possède une "hélice" qui tourne de 180°. 
+Le servo moteur sera placé sur le coté de la serre (du côté où il y aura la boite avec l'electronique). Il possède une "hélice" qui tourne de 180°. 
 Plus on le place haut dans la serre, plus le toit s'ouvrira. 
 Le but de la prochaine est de relier le cerveau moteur au capteur d'humidité. 
