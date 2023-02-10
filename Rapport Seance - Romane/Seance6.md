@@ -14,4 +14,12 @@ découper nos pièces avec du plexiglass de 2mm, celui ci a fondu, ce qui l'a re
 Nous avons enfin réussi à imprimer nos pièces !!!! Il nous manque seulement les deux côtés du toit que nous découperons au prochain cours ! 
 Nous avons assemblé les pièces pour former notre toit et nous avons collé le petit morceau du haut. 
 
-Voici quelques photos : 
+Voici une photo des pièces modélisées puis une duv bas de la serre : 
+
+
+
+![IMG_9835](https://user-images.githubusercontent.com/119842862/218131447-e5b04cfb-1bc2-4409-82fa-ef6c1c141a29.jpg)
+
+![IMG_3161](https://user-images.githubusercontent.com/119842862/218131411-71d8008d-db7d-485f-b1e5-c7fe1606ce11.jpg)
+
+Lors de la séance prochaine il faut mettre tous les capteurs dans la serre.
