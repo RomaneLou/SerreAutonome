@@ -14,7 +14,7 @@ qui nous permettra d'avoir un travail plus siple par la suite. Car nous avions p
 Donc nous avons créer une nouvelle pièce qui correspondra à deux des murs mais qui dispose d'un trapèze au dessus afin de créer le toît de la serre.
 Nous avons réaliser cela sur inkscape, nous avons ainsi du apprendre comment il fallait faire, les manipulations etc.
 
-Voici les pièces que nous avons ainsi du réaliser: 
+Voici les pièces que nous avons ainsi du réaliser:                                                                                                         
 https://user-images.githubusercontent.com/119842862/218258328-8ac8e611-d34b-4adf-afcf-7eaf223470c4.png
 
 https://user-images.githubusercontent.com/119842862/218258296-28198716-f1c9-453a-a6fc-8418a1f7b3c7.png
@@ -31,6 +31,14 @@ refait, enlever les encoches, réaliser le trapèze etc.
 Une fois cette nouvelle modélisation fnie nous avons enfin pu voir nos pièces réalisées. 
 
 Voici le résultat de l'impression de nos pièces: 
+https://user-images.githubusercontent.com/119842862/218258668-63d93016-67fc-45b8-a782-9a7dfc39639d.jpg
+
+Une image du bas de nos serre: 
+https://user-images.githubusercontent.com/119842862/218258691-6d1260c7-8cd2-4cff-b142-61ecd669f4af.jpg
+
+Nous avons pour finir assemblé toutes nos pièces.
+
+Lors de la prochaine séance il faudra finir de construire le toit, assembler et placer tous nos capteurs et planter la menthe.
 
 
 
