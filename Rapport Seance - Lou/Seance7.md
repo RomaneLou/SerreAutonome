@@ -17,6 +17,9 @@ Il faudra finir le soudage lors de la dernière séance.
 
 Nous avons ensuite décider de réaliser la partie du toit qu'il nous manquait, il s'agit de deux rectangles en plexiglass également. L'un deux aura donc un trou (pour les cables). Nous avons réaliser cela avec la découpe laser.
 
+Pour la pompe à eau il a été important de faire deux trous dans le sol de notre serre afin de relier le tube du réservoir à eau jusque dans la terre de la serre. Donc avec une perceuse à colonne nous avons fais deux trou de la taille du tube de notre pompe.
+Ainsi la serre devra être surélevé tres légérement afin de pouvoir laisser passer le tube en dessous. 
+
 J'ai pu commencer à fixer quelques éléments. J'ai fixé la bande led sur le toît avec le pistolet à colle et j'ai également fixé des charnières sur le haut de la serre car un des cotés du toît s'ouvrira (grâce au servomoteur). 
 
 Lors de la prochaine séance il faudra fixer les plaques pour le toît ainsi que réaliser les derniers branchements, et placer les capteurs dans la serre.
