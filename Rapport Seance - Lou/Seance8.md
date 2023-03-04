@@ -25,5 +25,16 @@ de la pompe à eau.
 La dernière étape (avant de planter notre menthe) a été de mettre tout sur un seul programme. 
 C'est ici que nous avons rencontré le plus de difficulté. En effet lorsque nous avons tout assemblé, on a remarqué que ça ne marchait pas correctement.
 Déjà les actions étaient très lentes à se produire. Nous avons donc compris que c'était à cause de tout les "delay" que nous avions mis.
-Nous avons donc
+Nous avons donc réduis certains temps. (Cela reste quelques fois assez long mais ce n'est pas un gros problème car c'est une serre donc les actions peuvent 
+être faites un peu plus lentement).
+
+Le plus gros problème était que le servomoteur tremblait lorsqu'une action était réalisée.
+On a donc cherché a comprendre d'où venait ce problème.
+Nous avons donc transformé notre code en faisant 3 méthodes (une pour chaque action: humdité air, humidité sol et luminosité)
+Nous avons ensuite testé les différents cas afin de savoir qu'est ce qui ne fonctionnait pas bien ensemble. 
+L'humidité du sol(avec la pompe) et la luminosité (leds) fonctionnaient correctement ensemble. 
+L'humidité du sol et l'humidité de l'air (servomoteur) fonctionnaient également.
+Cependant nous avons remarqué que la luminosité et l'humidité de l'air avait des bugs: lorsque les leds changeaint, le servomoteur se mettait à trembler. Il ne respectait pas les consignes qu'on lui avait donné dans le code.
+Il a fallu donc essayer de comprendre comment régler ce problème. 
+On a eu l'aide de professeurs et nous avons compris qu'une certaine fonction
 
