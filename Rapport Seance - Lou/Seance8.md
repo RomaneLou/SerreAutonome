@@ -36,5 +36,15 @@ L'humidité du sol(avec la pompe) et la luminosité (leds) fonctionnaient correc
 L'humidité du sol et l'humidité de l'air (servomoteur) fonctionnaient également.
 Cependant nous avons remarqué que la luminosité et l'humidité de l'air avait des bugs: lorsque les leds changeaint, le servomoteur se mettait à trembler. Il ne respectait pas les consignes qu'on lui avait donné dans le code.
 Il a fallu donc essayer de comprendre comment régler ce problème. 
-On a eu l'aide de professeurs et nous avons compris qu'une certaine fonction
+On a eu l'aide de professeurs et nous avons compris qu'une certaine fonction présente dans le code des du capteur de lumière n'était pas comptaible avec le servomoteur. C'est la fonction "strip". Nous avons donc cherché dans la documentation et essayé de changer des choses dans le branchement et dans le code mais cela n'a pas fonctionner.
+
+La seule solution a été de séparer le servomoteur et les leds. Nous avons donc été obligé d'utiliser une autre carte arduino. Celle-ci contient juste le branchement du servomoteur. 
+Ainsi il a été nécessaire de faire une deuxième page de code qui sert à mettre le servomoteur en route.
+
+Dans le code principal on indique simplement dans la méthode du capteur de l'humidité de l'air que si notre pourcentage est trop haut alors dans ce cas on
+allume le pin 10. Le pin 10 est relié au pin 10 de la deuxième carte arduino. 
+
+
+Le problème étant réglé nous avons pu planter notre menthe.
+Notre projet est fini et il fonctionne. 
 
